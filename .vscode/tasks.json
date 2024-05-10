@@ -1,0 +1,46 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "cmake",
+            "type": "shell",
+            "command": "sudo cmake ..",
+            "args": [
+            ],
+			"options": {
+			    // 进入build
+			    // "${workspaceFolder}/build"：根下
+			    // "${fileDirname}"：当前
+		        "cwd": "${workspaceFolder}/build/" 
+			},
+			"group": {
+                "kind":"test", // Run test task
+                "isDefault":true
+            }
+        },
+        {
+            "label": "make",
+			"type": "shell",
+            "command": "sudo make -j4", // 查看本机MinGW, linux下识别核心数
+            "args": [
+            ],
+            "options": {
+			    // 进入build
+			    // "${workspaceFolder}/bin"：根下
+			    // "${fileDirname}"：当前
+		        "cwd": "${workspaceFolder}/build/" 
+			},
+			"group": {
+                "kind":"build",
+                "isDefault":true
+            }
+        },
+        {
+            "label":"Build my project", // launch文件需要对应
+            "dependsOn":[
+                "cmake",
+                "make"                
+            ]
+        }
+    ]
+}

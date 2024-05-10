@@ -1,0 +1,3 @@
+/home/orangepi/Desktop/WJ/code/communicate/fire/build/CMakeFiles/rebuild_cache.dir
+/home/orangepi/Desktop/WJ/code/communicate/fire/build/CMakeFiles/edit_cache.dir
+/home/orangepi/Desktop/WJ/code/communicate/fire/build/CMakeFiles/fire.dir

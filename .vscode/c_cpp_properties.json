@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/inc/**",
+                "${workspaceFolder}/src/**",
+                "H:\\Hownz\\2.PC\\0.1_PCD\\C-Cpp\\2.Cpp\\1.Cpp-Img\\OpenCV\\_whl\\Windows\\OpenCV-4.5.1\\opencv\\build\\include",
+                "${workspaceFolder}/inc",
+                "/usr/local/include/opencv4"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-arm64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

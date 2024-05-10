@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/main.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/main.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/main.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/wj.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/wj.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/wj.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/wj2.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/wj2.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/wj2.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/FireControl.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/FireControl.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/FireControl.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/ImgCore.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgCore.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgCore.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/ImgFeature.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgFeature.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgFeature.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/ImgMath.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgMath.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgMath.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/ImgProcess.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgProcess.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/ImgProcess.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/MLX90640_API.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/MLX90640_API.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/MLX90640_API.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/MLX90640_APP.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/MLX90640_APP.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/MLX90640_APP.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/MLX90640_LINUX_I2C_Driver.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/MLX90640_LINUX_I2C_Driver.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/MLX90640_LINUX_I2C_Driver.cpp"
+},
+{
+  "directory": "/home/orangepi/Desktop/WJ/code/communicate/fire/build",
+  "command": "/usr/bin/g++  -D_GLIBCXX_DEBUG -I/home/orangepi/Desktop/WJ/code/communicate/fire/inc -I/home/orangepi/Downloads/rknpu-master/rknpu-master/rknn/rknn_api/librknn_api/include -isystem /usr/local/include/opencv4   -O0 -Wall -g -ggdb -fopenmp -rdynamic   -o CMakeFiles/fire.dir/src/SerialPort.cpp.o -c /home/orangepi/Desktop/WJ/code/communicate/fire/src/SerialPort.cpp",
+  "file": "/home/orangepi/Desktop/WJ/code/communicate/fire/src/SerialPort.cpp"
+}
+]
